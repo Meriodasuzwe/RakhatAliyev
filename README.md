@@ -1,71 +1,62 @@
-# 👋 Hi, I'm Rakhat Aliyev
+# Hi, I'm Rakhat Aliyev 
 
-🎓 I'm an Information Security student, currently exploring **Data Analytics**, **Python development**, and the path toward becoming a **Data Engineer**.
-💡 Passionate about transforming raw data into insights and building efficient backend systems.
+ **Information Security Specialist (Student) | Future Solutions Architect**
 
----
-
-## 🚀 What I'm Working On
-
-* Learning **Python for Data Analytics** (Pandas, NumPy, Matplotlib)
-* Practicing **SQL** for querying and data manipulation (MS SQL, PostgreSQL)
-* Building mini-projects: FIFA player analysis, data dashboards
-* Strengthening fundamentals of **data structures**, **algorithms**, and **clean code** principles
+I am an Information Security student at KarTU focused on building **secure, high-load backend systems** and **LMS platforms**. I bridge the gap between robust Python development and cybersecurity best practices.
 
 ---
 
-## 🔧 Tech Stack
+### What I'm Working On Right Now
 
-### 💻 Languages
-
-* Python
-* SQL
-* C#
-* JavaScript (basic)
-
-### 📊 Data & Tools
-
-* Pandas, NumPy, Matplotlib
-* MS SQL Server, PostgreSQL
-* Jupyter Notebook, Git & GitHub
-
-  
-### 📈 Data Visualization & BI
-- Power BI  
-- Looker Studio
-
-### 🌐 Web (basic knowledge)
-
-* HTML, CSS, API basics
+* **Secure LMS Development:** Building a cross-platform learning system with AI-driven proctoring and biometric authentication.
+* **Security Research:** Deep diving into **OWASP Top 10**, focusing on SQL-i, IDOR, and Rate Limiting prevention.
+* **Backend Mastery:** Transitioning from FastAPI to **Django Rest Framework (DRF)** for enterprise-grade applications.
+* **AI Integration:** Implementing ML models (Isolation Forest) for user behavior anomaly detection.
 
 ---
 
-## 🔍 Interests
+### Tech Stack
 
-* Data Analytics & Visualization
-* Data Analytics for business and tenders
-* Backend Logic & APIs
-* Relational Databases & Query Optimization
-* Automating tasks and building useful tools
-
+* **Languages:** `Python (Django, FastAPI)`, `SQL (PostgreSQL, MS SQL)`, `JavaScript (React basics)`.
+* **Security:** JWT Auth, RBAC, Biometric Verification, Encryption (AES/RSA), OWASP Standards.
+* **Tools:** Docker, Git/GitHub, Linux, Telegram API (Automated alerts).
 
 ---
 
-## 📫 Contact Me
+### Featured Security & Backend Projects
 
-* **GitHub:** [RakhatAliyev](https://github.com/Meriodasuzwe)
-* **LinkedIn – www.linkedin.com/in/rakhat-aliyev-3a9a2026b**
+*  **Cyber-Range REST API**
+    * A security-first API playground implementing defense mechanisms against **SQL-i, IDOR, and Rate Limiting**.
+    * **Tech:** FastAPI (Backend) + Streamlit (Frontend) with instant Telegram alert integration.
+
+*  **KYC Verification Module**
+    * Biometric identity confirmation system.
+    * **Tech:** Uses **MediaDevices API** for real-time camera capture on the frontend and custom backend logic for document validation and photo verification.
+
+*  **DLP Mini-Service**
+    * Anti-theft data protection system preventing unauthorized copying.
+    * **Features:** Automated detection of copy attempts with immediate photo-fixation of the violator sent to Telegram.
+
+*  **RBAC Security Desktop App**
+    * WinForms application for secure database management.
+    * **Features:** Full interaction with **MS SQL** (Select, Insert, etc.), encrypted user management, role creation, and activity auditing.
+
+*  **Scooter Patrol Bot**
+    * Telegram bot for reporting e-scooter parking violations.
+    * **Features:** Handles photo/video evidence upload and integrates with a database to track incidents.
 
 ---
 
-## 📌 Featured Projects
+### Career Objective
 
-* **FIFA Players Analysis** – Explore stats by positions, speed, height
-* **Medical History Automation** – Simplifying workflow for doctors (personal project)
-* **LeetCode Practice** – Algorithm and problem-solving repository
-* Data Analytics for business & tenders
-- Automating processes in procurement and reporting
+**Junior Python Backend Engineer**
 
+I am seeking a position to apply my skills in building secure and scalable systems. My goal is to integrate **DevSecOps** best practices into the development lifecycle and grow as a Software Architect.
 
+---
 
+### Links
 
+* **LinkedIn:** [Your Link Here](https://www.linkedin.com/in/rakhat-aliyev-3a9a2026b)
+* **Telegram:** [@zulficar1](https://t.me/zulficar1)
+* **Email:** [raxataliev05@gmail.com](mailto:raxataliev05@gmail.com)
