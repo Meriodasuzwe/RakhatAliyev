@@ -1,62 +1,61 @@
-# Hi, I'm Rakhat Aliyev 
+# Hello, I'm Rakhat Aliyev! 👋
 
- **Information Security Specialist (Student) | Future Solutions Architect**
+**Junior Python Backend Engineer | Information Security Specialist | 4th Year Student at KarTU**
 
-I am an Information Security student at KarTU focused on building **secure, high-load backend systems** and **LMS platforms**. I bridge the gap between robust Python development and cybersecurity best practices.
+I am a passionate backend developer and cybersecurity enthusiast focused on building **secure, scalable, and high-performance systems**. I believe that security should be the foundation of any software architecture, not just an afterthought.
 
----
+### 🚀 What I'm Working On Right Now
 
-### What I'm Working On Right Now
+* **SaqBol LMS (Diploma Project):** Developing an intelligent, secure cross-platform Learning Management System.
+* **Stack:** Python, Django, Django REST Framework (DRF),React,Nginx, PostgreSQL, and Docker.
+* **Focus:** Content protection, secure data transmission, and robust user authentication. Defense scheduled for **June 2026**.
 
-* **Secure LMS Development:** Building a cross-platform learning system with AI-driven proctoring and biometric authentication.
-* **Security Research:** Deep diving into **OWASP Top 10**, focusing on SQL-i, IDOR, and Rate Limiting prevention.
-* **Backend Mastery:** Transitioning from FastAPI to **Django Rest Framework (DRF)** for enterprise-grade applications.
-* **AI Integration:** Implementing ML models (Isolation Forest) for user behavior anomaly detection.
 
----
+* **Scout.kz:** An AI-driven platform for scouting young football talents in Kazakhstan.
+* Designing the backend logic, ranking systems, and database architecture.
 
-### Tech Stack
 
-* **Languages:** `Python (Django, FastAPI)`, `SQL (PostgreSQL, MS SQL)`, `JavaScript (React basics)`.
-* **Security:** JWT Auth, RBAC, Biometric Verification, Encryption (AES/RSA), OWASP Standards.
-* **Tools:** Docker, Git/GitHub, Linux, Telegram API (Automated alerts).
+* **Continuous Learning:** Daily algorithm practice on LeetCode and exploring **DevSecOps** methodologies.
 
 ---
 
-### Featured Security & Backend Projects
+### 🛠 Tech Stack
 
-*  **Cyber-Range REST API**
-    * A security-first API playground implementing defense mechanisms against **SQL-i, IDOR, and Rate Limiting**.
-    * **Tech:** FastAPI (Backend) + Streamlit (Frontend) with instant Telegram alert integration.
-
-*  **KYC Verification Module**
-    * Biometric identity confirmation system.
-    * **Tech:** Uses **MediaDevices API** for real-time camera capture on the frontend and custom backend logic for document validation and photo verification.
-
-*  **DLP Mini-Service**
-    * Anti-theft data protection system preventing unauthorized copying.
-    * **Features:** Automated detection of copy attempts with immediate photo-fixation of the violator sent to Telegram.
-
-*  **RBAC Security Desktop App**
-    * WinForms application for secure database management.
-    * **Features:** Full interaction with **MS SQL** (Select, Insert, etc.), encrypted user management, role creation, and activity auditing.
-
-*  **Scooter Patrol Bot**
-    * Telegram bot for reporting e-scooter parking violations.
-    * **Features:** Handles photo/video evidence upload and integrates with a database to track incidents.
+| Category | Technologies |
+| --- | --- |
+| **Backend** | Python (Django, DRF, FastAPI), REST API Design |
+| **Frontend** | React.js,Tailwind,Vite |
+| **Databases** | PostgreSQL, MS SQL, Database Design & Optimization |
+| **Security** | JWT, RBAC, OWASP Top 10, Encryption (AES/RSA), Vulnerability Scanning |
+| **Tools & OS** | Docker, Git/GitHub, Linux, Tkinter (GUI) |
+| **Languages** | Kazakh (Native),Russian(Fluent) English (Upper-Intermediate), Spanish (A2 - 230+ days streak) |
 
 ---
 
-### Career Objective
+### 🏆 Featured Projects
 
-**Junior Python Backend Engineer**
+* **Vulnerability Scanner PRO**
+* A Python-based GUI application designed to scan systems for common security flaws, developed as part of my university coursework in cybersecurity.
 
-I am seeking a position to apply my skills in building secure and scalable systems. My goal is to integrate **DevSecOps** best practices into the development lifecycle and grow as a Software Architect.
+
+* **Cyber-Range API**
+* A security-first REST API implementing defense mechanisms against **SQL injection, IDOR, and Rate Limiting**, integrated with Telegram for real-time security alerts.
+
+
+* **RBAC Security Management System**
+* A WinForms/MS SQL application focused on Role-Based Access Control and user activity auditing.
+
+
 
 ---
 
-### Links
+### 📍 Career Objective
 
-* **LinkedIn:** [Your Link Here](https://www.linkedin.com/in/rakhat-aliyev-3a9a2026b)
+I am looking for a **Junior Python Backend Engineer** role in a product-focused company or fintech group. I plan to relocate to **Astana** in mid-2026 following my graduation. My goal is to grow into a **Software Architect** role while integrating security best practices into every stage of the development lifecycle.
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [rakhat-aliyev](https://www.linkedin.com/in/rakhat-aliyev-3a9a2026b)
 * **Telegram:** [@zulficar1](https://t.me/zulficar1)
 * **Email:** [raxataliev05@gmail.com](mailto:raxataliev05@gmail.com)
+
